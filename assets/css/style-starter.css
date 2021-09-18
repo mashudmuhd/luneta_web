@@ -10069,7 +10069,7 @@ a.dropdown-item.active {
   content: '';
   width: 14px;
   height: 14px;
-  background: var(--bg-color);
+  background:#bfc2c5;
   border: 1px solid var(--border-color-light);
   display: block;
   border-right: none;
